@@ -1,0 +1,26 @@
+{
+  "name": "nodejsbackendapp",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgc91/nodeJSBackendApp.git"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickgc91/nodeJSBackendApp/issues"
+  },
+  "homepage": "https://github.com/nickgc91/nodeJSBackendApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
